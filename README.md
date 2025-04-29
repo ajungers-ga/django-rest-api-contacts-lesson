@@ -4,6 +4,8 @@
 
 This project is a Django-based REST API that allows users to create, read, update, and delete (CRUD) Contact entries stored in a PostgreSQL database.
 
+I completed the optional 'Hungry for More' by rebuilding both Locations and Companies as Django apps inside a single project (django_rest_api). Models are properly created, registered, migrated, and accessible via Admin.
+
 It was built to learn and practice Django fundamentals including:
 - Setting up a Django project and app
 - Connecting Django to a PostgreSQL database
